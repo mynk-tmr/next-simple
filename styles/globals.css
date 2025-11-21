@@ -3,5 +3,6 @@
 @layer base {
   body {
     @apply font-sans;
+    background: linear-gradient(-45deg, orange 50%, white 50%);
   }
 }
